@@ -1,4 +1,5 @@
 node_modules/
-public/dist/
+public/dist/style
+public/dist/script
 .env.development
 .env.test
